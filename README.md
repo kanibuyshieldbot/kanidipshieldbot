@@ -1,4 +1,4 @@
-  /\\___/\\
+
  (  o . o  )     KANI PROTOCOL v1.0
   > ^ <          autonomous. trustless. relentless. 
 
