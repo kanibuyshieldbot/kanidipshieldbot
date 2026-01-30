@@ -1,5 +1,8 @@
-
-<img width="1000" height="1000" alt="RR (19)" src="https://github.com/user-attachments/assets/93270b85-a698-4797-bd61-7df30c937dce" />
+  /\\___/\\
+ (  o . o  )     KANI PROTOCOL v1.0
+  > ^ <          autonomous. trustless. relentless.
+ /|     |\\
+(_|     |_) 
 
 # Kani Dip Shield — Pump.fun Dip Monitor + Buyback Interface
 
