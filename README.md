@@ -1,5 +1,5 @@
 
-![WwCLqi6W_400x400](https://github.com/user-attachments/assets/2e40beed-6348-47b4-b31c-c3a7f3bf1348)
+<img width="1000" height="1000" alt="RR (19)" src="https://github.com/user-attachments/assets/93270b85-a698-4797-bd61-7df30c937dce" />
 
 # Kani Dip Shield — Pump.fun Dip Monitor + Buyback Interface
 
