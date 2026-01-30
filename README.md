@@ -1,5 +1,5 @@
 
-<img width="1024" height="1024" alt="kani pfp" src="https://github.com/user-attachments/assets/91800dac-583b-46a8-a343-3ad8c79fa40a" />
+![WwCLqi6W_400x400](https://github.com/user-attachments/assets/2e40beed-6348-47b4-b31c-c3a7f3bf1348)
 
 # Kani Dip Shield — Pump.fun Dip Monitor + Buyback Interface
 
