@@ -1,8 +1,6 @@
   /\\___/\\
  (  o . o  )     KANI PROTOCOL v1.0
-  > ^ <          autonomous. trustless. relentless.
- /|     |\\
-(_|     |_) 
+  > ^ <          autonomous. trustless. relentless. 
 
 # Kani Dip Shield — Pump.fun Dip Monitor + Buyback Interface
 
