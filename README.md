@@ -1,4 +1,7 @@
-# Dip Shield — Pump.fun Dip Monitor + Buyback Interface
+
+<img width="1000" height="1000" alt="RR (16)" src="https://github.com/user-attachments/assets/308d5421-a5d5-46e5-a0f9-6bca6a061f13" />
+
+# Kani Dip Shield — Pump.fun Dip Monitor + Buyback Interface
 
 This repository provides a **dip shield** framework for Solana tokens:
 - Configure a token mint / CA
