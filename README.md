@@ -2,7 +2,7 @@
  (  o . o  )     KANI PROTOCOL v1.0
   > ^ <          autonomous. trustless. relentless. 
 
-# Kani Dip Shield — Pump.fun Dip Monitor + Buyback Interface
+# Kani — Pump.fun Dip Monitor + Buyback Interface
 
 This repository provides a **dip shield** framework for Solana tokens:
 - Configure a token mint / CA
