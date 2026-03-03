@@ -1,8 +1,8 @@
 
- (  o . o  )     KANI PROTOCOL v1.0
+ (  o . o  )     VIAGRA PROTOCOL v1.0
   > ^ <          autonomous. trustless. relentless. 
 
-# Kani — Pump.fun Dip Monitor + Buyback Interface
+# VIAGRA — Pump.fun Dip Monitor + Buyback Interface
 
 This repository provides a **dip shield** framework for Solana tokens:
 - Configure a token mint / CA
